@@ -5,4 +5,4 @@ https://dl.pconline.com.cn/download/889339-1.html
 然后自己配一下 JAVA_HOME  path
  
  
- https://down.81857.net/soft/apachejmeter.zip
+https://mirrors.tuna.tsinghua.edu.cn/apache//jmeter/binaries/apache-jmeter-5.3.zip
